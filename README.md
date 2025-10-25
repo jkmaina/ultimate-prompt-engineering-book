@@ -20,15 +20,15 @@ Each example shows real business scenarios with step-by-step prompts, complete A
 
 **Example 1: Meeting Intelligence System**
 - **Scenario**: David, a consultant, was spending 2-3 hours after each meeting on follow-up
-- **Framework**: Audio processing workflow for comprehensive meeting analysis
+- **Prompt**: "Analyze this meeting recording for strategic insights and actionable intelligence. Please provide: complete transcript with speaker identification, key decisions made and rationale discussed, action items with clear ownership and deadlines, stakeholder concerns and objections raised, and assessment of meeting effectiveness and next steps needed."
 - **Result**: Complete meeting summaries, action items, and stakeholder insights in 15 minutes
-- **Template**: Adaptable for any meeting type (sales, strategy, team reviews)
+- **Outcome**: 90% time savings, 95% capture rate vs. manual notes, immediate follow-up capability
 
 **Example 2: VISUAL Framework for Product Photography**
 - **Scenario**: Sarah needed professional product images for a marketing campaign
-- **Framework**: 6-component VISUAL system (Vision, Image, Style, Use, Artistic, Limitations)
+- **Prompt**: "Professional product photography showcasing an innovative sustainable water bottle as the hero of an eco-conscious lifestyle, emphasizing both functionality and environmental responsibility for health-conscious consumers aged 25-45. Center the water bottle as the dominant focal point in the lower third of the frame, with natural environmental elements creating depth and context in the background. Clean, modern product photography style with natural lighting, earth-tone color palette featuring sage green, warm beige, and soft blues. Hero image for digital marketing campaign requiring high resolution with space for text overlay. Stainless steel water bottle with bamboo cap, condensation droplets suggesting freshness, surrounded by natural elements like smooth river stones and soft fern leaves. Avoid plastic elements, bright artificial colors, or cluttered backgrounds."
 - **Result**: Professional-quality images that saved $4,800+ vs. traditional photography
-- **Template**: Works for any visual content creation across industries
+- **Outcome**: 3-hour turnaround vs. 2-3 weeks, 40% higher engagement vs. stock photos
 
 ---
 
