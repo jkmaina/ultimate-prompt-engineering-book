@@ -155,10 +155,7 @@ These examples are part of "The Complete Guide to Prompt Engineering" - a compre
 
 **[📖 Learn More About the Complete Guide →](https://promptengineeringbook.com)**
 
-### 🤝 **Join the Community:**
-Connect with other professionals mastering AI collaboration, share your successes, and learn from real-world applications.
 
-**[💬 Join the AI Collaboration Community →](https://github.com/prompt-engineering-examples/discussions)**
 
 ---
 
