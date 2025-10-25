@@ -18,6 +18,18 @@ The complete guide teaches you systematic approaches to AI collaboration, from b
 ### 💼 **What the Examples Provide:**
 Each example shows real business scenarios with step-by-step prompts, complete AI outputs, and practical templates you can adapt for your own work. You'll see exactly how professionals use AI to save time, improve quality, and achieve measurable results in their daily tasks.
 
+**Example 1: Meeting Intelligence System**
+- **Scenario**: David, a consultant, was spending 2-3 hours after each meeting on follow-up
+- **Framework**: Audio processing workflow for comprehensive meeting analysis
+- **Result**: Complete meeting summaries, action items, and stakeholder insights in 15 minutes
+- **Template**: Adaptable for any meeting type (sales, strategy, team reviews)
+
+**Example 2: VISUAL Framework for Product Photography**
+- **Scenario**: Sarah needed professional product images for a marketing campaign
+- **Framework**: 6-component VISUAL system (Vision, Image, Style, Use, Artistic, Limitations)
+- **Result**: Professional-quality images that saved $4,800+ vs. traditional photography
+- **Template**: Works for any visual content creation across industries
+
 ---
 
 ---
